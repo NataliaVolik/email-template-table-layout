@@ -2,6 +2,10 @@
 
 Example, how to send email with gmail account. Written on ruby. Used [mail](https://github.com/mikel/mail) gem.
 
+## Example
+
+![example](example.jpg)
+
 
 ## Usage
 
