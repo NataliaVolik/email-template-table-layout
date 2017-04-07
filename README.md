@@ -1,8 +1,4 @@
-# Send email with ruby
-
-Example, how to send email with gmail account. Written on ruby. Used [mail](https://github.com/mikel/mail) gem.
-
-## Example
+# Example of email template based on table layout
 
 ![example](example.jpg)
 
