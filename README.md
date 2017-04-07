@@ -6,6 +6,12 @@ Example, how to send email with gmail account. Written on ruby. Used [mail](http
 
 ![example](example.jpg)
 
+## Useful resources
+
+* https://pixabay.com/ - free pictures with Creative Commons CCO license
+* https://imgbb.com/ - image hosting
+* https://templates.mailchimp.com/resources/inline-css/ - CSS Inliner Tool
+* https://www.campaignmonitor.com/css/ - Table of CSS support for the top 10 most popular mobile, web and desktop email clients
 
 ## Usage
 
